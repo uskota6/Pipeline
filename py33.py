@@ -1,1 +1,1 @@
-print ("hi this is normal code")
+print ("hi this is normal one")
